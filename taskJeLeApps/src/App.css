@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  background-color: white;
+  align-items: center;
+  justify-content: center;
+  height: 150vh;
+}
+
+.Square {
+  width: 150px;
+  height: 150px;
+  background-color: black;
+}
+
+
+
+
+
+
+
+
